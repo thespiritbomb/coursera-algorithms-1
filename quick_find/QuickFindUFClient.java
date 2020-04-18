@@ -1,3 +1,5 @@
+/*Client to run QuickFindUF.java*/
+package quick_find;
 import java.util.Scanner;
 public class QuickFindUFClient {
     public static void main(String[] args){
