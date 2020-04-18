@@ -15,5 +15,6 @@ public class QuickUnionUFClient {
         obj.union(7,2);
         obj.union(6,1);
         obj.union(7,3);
+        in.close();
     }
 }
